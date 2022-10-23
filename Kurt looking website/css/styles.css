@@ -1,0 +1,22 @@
+body {
+  background-color: #FFF2F2;
+}
+hr{
+  border-color: #EF9F9F;
+  border-width: 10px;
+  height: 0px;
+  width: 40%;
+  border-style: none;
+  border-top-style: dotted;
+}
+img{
+  height: 150px;
+}
+h1{
+    color: #F47C7C;
+}
+h3{
+    color: #F47C7C;
+}
+
+/*extra color: FAD4D4 - colors from: https://colorhunt.co*/
